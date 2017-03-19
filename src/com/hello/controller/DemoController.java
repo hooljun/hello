@@ -7,12 +7,7 @@ public class DemoController {
 
      public static  void main(String[] args){
 
-         System.out.print("baobaoff !p");
-         System.out.print("baobao fff!");
-         System.out.print("baobaoff !p");
-         System.out.print("baobao fff!");         System.out.print("baobaoff !p");
-         System.out.print("baobao fff!");         System.out.print("baobaoff !p");
-         System.out.print("baobao fff!");
+         System.out.print("huyawen !p");
 
          print();
          System.out.print("hello demo!");

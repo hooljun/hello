@@ -18,7 +18,7 @@ public class DemoController2 {
 
      public static void print(){
 
-         System.out.print("baobao !");
+         System.out.print("zhaojuan !");
          System.out.print("efefe !");
      }
 }
