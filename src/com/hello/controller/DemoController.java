@@ -9,7 +9,10 @@ public class DemoController {
 
          System.out.print("baobaoff !p");
          System.out.print("baobao fff!");
-
+         System.out.print("baobaoff !p");
+         System.out.print("baobao fff!");         System.out.print("baobaoff !p");
+         System.out.print("baobao fff!");         System.out.print("baobaoff !p");
+         System.out.print("baobao fff!");
 
          print();
          System.out.print("hello demo!");
